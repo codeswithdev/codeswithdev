@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hey 👋 I'm Devansh
 
-<!--
-**codeswithdev/codeswithdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">
+AI Systems Developer • Full-Stack Engineer • Building Autonomous Software & Futuristic Infrastructure
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a Computer Science student from India focused on building next-generation AI systems, autonomous workflows, and scalable software architectures.
+
+My work revolves around:
+- AI-powered applications
+- Experimental operating systems
+- Automation infrastructure
+- Real-time distributed systems
+- Full-stack product engineering
+
+---
+
+## 🧠 Currently Building
+
+### ⚡ DevOS
+An AI-powered distributed operating system inspired by JARVIS.
+
+### 💸 SpendLens
+AI SaaS intelligence platform for analyzing and optimizing AI tool spending.
+
+### 🤖 Autonomous AI Systems
+Memory engines, AI agents, workflow orchestration, and automation runtimes.
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+Python • TypeScript • JavaScript • C • C++
+
+### Frontend
+React • Next.js • TailwindCSS
+
+### Backend
+Node.js • Express • FastAPI
+
+### Databases & Tools
+PostgreSQL • MongoDB • Docker • Git • Linux
+
+### Exploring
+Rust • AI Runtime Systems • Distributed Architectures • Low-Level Engineering
+
+---
+
+## 📌 Interests
+
+- AI Infrastructure
+- Distributed Systems
+- Automation
+- Real-Time Architectures
+- Autonomous Agents
+- System Design
+
+---
+
+## 💬 Ask Me About
+
+AI Systems • Full-Stack Development • Automation • APIs • Software Architecture • Futuristic Tech
+
+---
+
+## 📫 Reach Me
+
+📧 devanshdev74@gmail.com
+
+---
+
+## ⚡ Vision
+
+Building intelligent software systems that feel futuristic, autonomous, and deeply integrated into everyday workflows.
